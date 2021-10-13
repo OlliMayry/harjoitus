@@ -10,6 +10,8 @@ p{
     color:green;
 }
 .mydiv{
+  color:white;
+  border-color:white;
   border-style:dotted;
   border:2px;
   width:100%;
