@@ -11,9 +11,8 @@ p{
 }
 .mydiv{
   color:white;
-  border-color:white;
   border-style:dotted;
-  border:2px;
+  border:2px outset white;
   width:100%;
     height:100%;
 }
